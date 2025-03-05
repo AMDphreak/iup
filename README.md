@@ -1,5 +1,5 @@
 # IUP wrapper 
-This is a nim wrapper for the [IUP](http://webserver2.tecgraf.puc-rio.br/iup/) GUI toolkit.
+This is a nim wrapper for the [IUP](https://www.tecgraf.puc-rio.br/iup/) GUI toolkit.
 
 ## History
 The wrapper was originally part of the standard library. This project was created to remove it from the standard library, 
